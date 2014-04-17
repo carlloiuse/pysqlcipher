@@ -1,4 +1,4 @@
-amalgamation
+# amalgamation
 build
 *.pyc
 dist/
